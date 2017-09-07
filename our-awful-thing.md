@@ -1,4 +1,4 @@
-#Best Chocolate Chip "Cookie" Recipe
+# Best Chocolate Chip "Cookie" Recipe
 
 ![Image placeholder for chocolate chip cookies](http://lorempixel.com/400/200)
 
@@ -15,6 +15,8 @@ This recipe comes from the depths of Mordor and helped my grandfather win the Ke
 *  Crushed saltines
 *  Slinky snek
 
+***
+
 ## Instructions
 
 1. Whip sugar, salmon skin, and smoked paprika to an inedible froth
@@ -24,5 +26,7 @@ This recipe comes from the depths of Mordor and helped my grandfather win the Ke
 5.  Add one sprinkle per patty
 6.  Bread in crushed saltines
 7.  **Scoop** into mouth
+
+>If your friends and family refuse to eat these we recommend pinning them down, prying their mouths open, and force feeding them.
 
 [Click here](http://www.trump.com/) for more awful things.
